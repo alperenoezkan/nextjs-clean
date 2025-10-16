@@ -1,0 +1,15 @@
+{
+  "name": "Next.js Clean Starter",
+  "framework": "next@latest",
+  "router": "app",
+  "styling": "tailwindcss@latest",
+  "typescript": true,
+  "eslint": true,
+  "clearDefaults": true,
+  "features": {
+    "font": "Inter",
+    "minimalLayout": true,
+    "centeredHome": true,
+    "cleanGlobals": true
+  }
+}
